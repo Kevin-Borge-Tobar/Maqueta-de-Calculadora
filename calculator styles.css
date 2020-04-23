@@ -32,3 +32,14 @@
     font-size: 20px;
     border-bottom: darkgrey;
     }
+/* se establecio el diseño del área de resultados*/
+#resultado{
+display: block;
+text-align:center;
+font-size: 40px;
+background-color: rgb(122, 161, 179);
+margin-bottom: 1px;
+height: 70px;
+width: 285px;
+line-height: 1px;
+}
