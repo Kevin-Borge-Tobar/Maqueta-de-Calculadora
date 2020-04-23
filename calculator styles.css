@@ -1,3 +1,25 @@
 /* se establecion un color de fondo para el cuerpo de la página */
 #body{
     background-color:rgb(255, 200, 210);
+    }
+    /* Se establecio el estilo y el tamaño del titulo*/
+    #tit{
+        text-align: center;
+        font-size: 45px;
+        margin:2px auto;
+        width: auto;
+        height: 90px;
+        color: rgb(42, 46, 240);
+        font-style: italic;
+        }
+
+.Calc{
+    display: block;
+    margin:0 auto;
+    padding: 20px;
+    background-color:azure;
+    width: 500px;
+    height: 500px;
+    border: rgb(13, 14, 14);
+    }
+
